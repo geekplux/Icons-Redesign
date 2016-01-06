@@ -1,5 +1,14 @@
 # Icons-Redesign
 
+#### How to learn Sketch?
+
+https://github.com/geekplux/sketch-learning
+
+
+### Day 4
+
+![](http://7u2m4t.com1.z0.glb.clouddn.com/Emacs.png)
+
 ### Day 3
 
 ![](http://7u2m4t.com1.z0.glb.clouddn.com/Sea.png)
