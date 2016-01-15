@@ -5,6 +5,10 @@
 https://github.com/geekplux/sketch-learning
 
 
+### Day 6
+
+![](http://7u2m4t.com1.z0.glb.clouddn.com/Reflight.png)
+
 ### Day 5
 
 ![](http://7u2m4t.com1.z0.glb.clouddn.com/spacemacs.png)
